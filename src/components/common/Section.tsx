@@ -6,7 +6,7 @@ interface Props {
 
 function Section({ children }: Props) {
   return (
-    <div className="m-4">
+    <div className="m-4 mt-10">
       <section>{children}</section>
     </div>
   );

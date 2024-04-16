@@ -12,7 +12,7 @@ function AppBar() {
             </p>
           </div>
         </div>
-        <p className="font-mono text-slate-300/85">v.0.0</p>
+        <p className="font-mono text-slate-300/85">v.0.1</p>
       </div>
     </header>
   );
