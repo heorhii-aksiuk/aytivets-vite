@@ -13,12 +13,12 @@ function Hero() {
               Software Engineer
             </span>
           </h1>
-          <h2 className="text-white text-xl font-semibold">Hello world!</h2>∄
+          <h2 className="text-white text-xl font-semibold">Hello world!</h2>
           <p className="text-white">
-            My name is Heorhii aka Zhorik, Zhora, zhorik044, Aytivets ...
-            whatever. I'm into a lot of different stuff and love cats😺. You can
-            find me in a forest, ∄ club, or a hardcore mosh pit. Write me if you
-            need any site or any web application.
+            My name is Heorhii aka Georgiy, Zhorik, Zhora, zhorik044, Aytivets
+            ... whatever. I'm into a lot of different stuff and love cats😺. You
+            can find me in a forest, ∄ club, or a hardcore mosh pit. Write me if
+            you need any site or any web application.
           </p>
           <a
             href="https://t.me/aytivets"
